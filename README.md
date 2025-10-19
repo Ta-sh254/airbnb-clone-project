@@ -45,7 +45,7 @@ Secondary: #008489, #808993, #444444, #808993, #929292, #000000, #161117, #22222
  - Ensuring design consistency.
  - Facilitating accurate development.
 
-# PROJECT ROLES & RESPONSIBILITY
+# PROJECT ROLES & RESPONSIBILITIES
 
 ### Project manager
 - Oversees timeline, co-ordinates team and manages deliverables.
