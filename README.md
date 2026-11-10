@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tash
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning project planning and design
 - 💞️ I’m looking to collaborate on various projects
